@@ -1,0 +1,13 @@
+<!---
+- 👋 Hi, I’m @bmdeeal
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+bmdeeal/bmdeeal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+Hi there! I'm Brenden Deeal. I write a fair bit of software, and I've been getting it all suitible for public consumption here on GitHub.
+
+My current major project is [quig](https://github.com/bmdeeal/quig), an easy-to-use C++ and SDL-based system for writing simple games with scaling graphics in Lua. Alongside it is [quig-ui](https://github.com/bmdeeal/quig-ui), a convenient frontend written in C# that makes it easy to create, edit, and run games for quig.
